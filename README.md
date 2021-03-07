@@ -4,10 +4,10 @@ Data Analysis of AirBnB Boston Dataset
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -22,6 +22,8 @@ For this project, I was interesteed in analysing the AirBnb Boston Dataset:
 2.What amenities are there and how are they distributed?
 
 3.Can we predict the price by using sklearn and tensorflow?
+
+The main motivation was to write a program to compare the prices of different accomodations with each other and to check whether the price for this accomodation is justified, to high or to low (depending from location, size, amenities and so on)
 
 ## File Descriptions <a name="files"></a>
 
